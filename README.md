@@ -1,5 +1,5 @@
 <h1>This is just my very first test project using Latest Larave 7 and vue.js</h1>
-<span>please checkout my source <a href="https://www.codechief.org/article/vue-laravel-crud-example-with-vue-router-and-sweet-alert#gsc.tab=0" target="_blank">vue-laravel-crud-example-with-vue-router-and-sweet-alert</a> <strong>&</strong> <a href="https://laravel.com/docs/7.x/frontend" target="_blank">Laravel.com</a></span>
+<span>please checkout my source: <br> <a href="https://www.codechief.org/article/vue-laravel-crud-example-with-vue-router-and-sweet-alert#gsc.tab=0" target="_blank">vue-laravel-crud-example-with-vue-router-and-sweet-alert</a> <br> <a href="https://laravel.com/docs/7.x/frontend" target="_blank">Laravel.com</a></span>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
